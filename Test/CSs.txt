@@ -1,0 +1,55 @@
+HTML Fundamentals Introduction
+30m 1s
+Introduction3m 4s
+HTML documents3m 58s
+Demo: using doctype5m 59s
+The head element3m 11s
+Demo: using <head>7m 27s
+The body element3m 2s
+Using id and class attributes2m 15s
+Summary1m 5s
+HTML Text
+32m 55s
+Introduction1m 15s
+Headings1m 13s
+Demo: Headings1m 46s
+Block vs. Inline Elements2m 21s
+Demo: Block and Inline Elements5m 14s
+Whitespace3m 21s
+Demo: Whitespace7m 1s
+Additional Text Elements3m 14s
+Demo: Additional Elements6m 35s
+Summary55s
+HTML Lists
+13m 9s
+Introduction27s
+List Types1m 10s
+Demo: Creating Lists5m 49s
+Demo: List Rendering5m 6s
+Summary37s
+HTML Links
+16m 25s
+Introduction40s
+Link concepts3m 37s
+Demo: Linking Documents4m 4s
+Understanding Targets42s
+Demo: Linking to Targets5m 54s
+Additional Link Attributes53s
+Summary35s
+HTML Tables
+23m 22s
+Introduction1m 3s
+Table Elements1m 41s
+Demo: Structuring a Table2m 16s
+Table Data4m 28s
+Spanning Columns and Rows3m 24s
+Formatting Tables3m 16s
+Demo: Table Formatting6m 39s
+Summary35s
+HTML Images and Objects
+17m 44s
+Introduction1m 16s
+Image and Object Concepts2m 58s
+Demo: Adding Images5m 49s
+Demo: Adding Objects6m 46s
+Summary55
